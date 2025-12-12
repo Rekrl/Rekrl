@@ -30,7 +30,6 @@ Passionate developer from Portugal 🇵🇹, **AI Enthusiast 🤖**, **Smart Cit
 ### 💻 **Backend & Languages**
 <p>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" /> <!-- adicionei Express que tinhas antes -->
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat&logo=c%2b%2b&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
