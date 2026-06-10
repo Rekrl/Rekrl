@@ -16,7 +16,7 @@
   - Developed a company website from scratch (HTML/CSS/JS + PHP + MySQL + WhatsApp API)
   - Built an end-to-end **Industrial IoT platform** (ESP32 edge firmware → MQTT → Node.js pipeline → InfluxDB →
   real-time dashboard + FastAPI anomaly detection), containerised with Docker
-  - Love prompt engineering, AI tools and anything that solves real problems
+  - Love prompt engineering, AI-assisted development (Claude Code, Cursor) and anything that solves real problems
   - Background in competitive basketball (5+ years regional/national) → teamwork under pressure mastered
 
   ---
