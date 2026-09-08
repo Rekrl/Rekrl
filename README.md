@@ -2,7 +2,7 @@
   Passionate developer from Portugal 🇵🇹, **AI Enthusiast 🤖**, **Smart Cities & IoT Curious 🏙️** and **Full-Stack
   Builder 🚀**
 
-  - 🎓 Final-year Computer Science & Engineering student (graduating July 2026 – GPA 16/20)
+  - 🎓 Final-year Computer Science & Engineering student
   - 💻 Focused on full-stack web development and real-world applications
   - 🧠 Obsessed with building meaningful projects that mix software with the physical world
   - 🌐 Strong interest in AI, Smart Cities, IoT, automation and modern architectures
